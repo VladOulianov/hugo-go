@@ -5,9 +5,6 @@ fields:
 - type: boolean
   name: showonlyimage
   label: showonlyimage
-- type: file
-  name: image
-  label: image
 - type: datetime
   name: date
   label: date
@@ -20,3 +17,8 @@ fields:
 - type: number
   name: weight
   label: weight
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
