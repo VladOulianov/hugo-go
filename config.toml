@@ -1,7 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://hugo-test-nf.netlify.app/"
 languageCode = "fr-FR"
 title = "My New Hugo Site"
-baseurl = "https://example.org/"
 theme = "hugo-nederburg-theme"
 
 # Enable comments by entering your Disqus shortname
